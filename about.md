@@ -9,15 +9,17 @@ I’m an aspiring data scientist who isn’t shy about tackling critical issues.
 ### Area of Focus
 
 _Data Science_
-NLP
-Machine Learning
-Data Visualization
+
+- NLP
+- Machine Learning
+- Data Visualization
 
 _Topics_
-Energy
-Politics
-Public Good
+
+- Energy
+- Politics
+- Public Service
 
 ### Contact me
 
-[james.babyak@gmail.com](mailto:email@domain.com)
+[email@me](james.babyak@gmail.com)
